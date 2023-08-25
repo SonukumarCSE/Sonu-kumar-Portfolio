@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sonu-kumar-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Sonu-kumar-Portfolio/static/js/main.40a91a46.js",
+    "static/media/HeroImage.jpg": "/Sonu-kumar-Portfolio/static/media/HeroImage.d84a1998c49a3ca1e187.jpg",
+    "index.html": "/Sonu-kumar-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Sonu-kumar-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.40a91a46.js.map": "/Sonu-kumar-Portfolio/static/js/main.40a91a46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.40a91a46.js"
+  ]
+}
